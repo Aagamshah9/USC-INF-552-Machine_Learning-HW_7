@@ -11,3 +11,4 @@ INF-552-Homework-7-Aagamshah9 created by GitHub Classroom
 7. https://www.machinecurve.com/index.php/2020/02/09/how-to-build-a-convnet-for-cifar-10-and-cifar-100-classification-with-keras/
 8. https://stackoverflow.com/questions/48213663/choosing-only-specific-classes-of-cifar-10
 9. https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
+10 https://scikit-image.org/docs/dev/auto_examples/color_exposure/plot_rgb_to_gray.html
